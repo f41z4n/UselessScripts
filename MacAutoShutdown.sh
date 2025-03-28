@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # === CONFIGURATION ===
-shutdownFirstWarningDay=1  # For testing, use 7 in production
+shutdownFirstWarningDay=1  # This value goes for testing, use 7 in production
 shutdownFinalDay=2         # For testing, use 8 in production
 postponeFlag="/var/tmp/nanoprecise_shutdown_postponed"
 
